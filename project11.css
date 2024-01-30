@@ -1,0 +1,59 @@
+.sec1{
+    background-color: blanchedalmond;
+    height: 300px;
+    text-align: center;
+    padding: 5%;
+
+}
+.inbox2{
+    /* background-color: cornsilk; */
+    height: 500px;
+    padding: 10%;
+    text-align: center;
+}
+.ch{
+    text-decoration: none;
+    color: red;
+}
+.head{
+    height: 100px;
+    /* background-color: aliceblue; */
+    text-align: center;
+    padding: 5% 1%
+}
+.inbox4{
+    /* background-color: aqua; */
+    height: 200px;
+    text-align: center;
+    padding: 2%;
+}
+.dnld{
+    color: white;
+    background-color:orangered;
+    padding: 5px 15px;
+    text-decoration: line-through
+}
+.clr{
+    color: paleturquoise;
+}
+.inbox5{
+    /* background-color: cyan; */
+    height: 50px;
+    text-align: center;
+    padding: 10% 0%;
+}
+.inbox6{
+    /* background-color: darkcyan; */
+    height: 250px;
+    text-align: center;
+
+}
+.image{
+    border-radius: 50%;
+}
+.inbox7{
+    /* background-color: antiquewhite; */
+    height: 100px;
+    text-align: center;
+    padding: 2% 20%;
+}
